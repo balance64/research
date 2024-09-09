@@ -1,2 +1,3 @@
-# research
-class work
+(￣﹏￣；)
+
+🐍🐍 Python practise exercises and other class work
