@@ -1,8 +1,8 @@
 A couple of algorithms I found in a book I got from the library 
 "Essential Computer Science: A Programmer's Guide to Foundational Concepts"
 by 
-Paul D. Crutcher
-Neeraj Kumar Singh
+Paul D. Crutcher, 
+Neeraj Kumar Singh, 
 Peter Tiegs
 
 I wrote them out manually and tried to understand the thinking behind them. 
